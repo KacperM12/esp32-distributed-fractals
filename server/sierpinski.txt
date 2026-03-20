@@ -1,0 +1,9 @@
+sierpinski.txt:
+ITERATIONS: 4
+AXIOM: F
+ANGLE: 60
+START_ANGLE: 0
+STEP: 5.0
+DRAW_G: 1
+RULE: F=G-F-G
+RULE: G=F+G+F

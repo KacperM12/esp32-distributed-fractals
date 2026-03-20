@@ -1,0 +1,6 @@
++ nodeId,quantity,Z0
++ originX,quantity,Z4
++ originY,quantity,Z5
+: 0,nodeId,0
+: 0,originX,25
+: 0,originY,100
